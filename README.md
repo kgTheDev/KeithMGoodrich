@@ -1,4 +1,4 @@
 # KeithMGoodrich
 My portfolio.
 
-https://keiththedev.github.io/KeithMGoodrich/
+https://kgthedev.github.io/KeithMGoodrich/
